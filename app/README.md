@@ -1,6 +1,7 @@
 # Project Structure Explanation
 
-Welcome to the project! This structure is based on the Flask framework and uses the "Flask Factory Pattern". For those new to Flask or this design pattern, let's break down what each file and directory is for and how they work together.
+Welcome to the project! This structure is based on the Flask framework and uses the "Flask Factory Pattern". 
+For those new to Flask or this design pattern, let's break down what each file and directory is for and how they work together.
 
 ## Directory Structure:
 
